@@ -12,7 +12,7 @@ function Forever() {
         var b = element.scrollHeight - element.clientHeight;
         var c = a / b;
         
-        if (c == 0){
+        if (c < 0.6){
             document.getElementById('top').classList.add = 'active';
             document.getElementById('bottom').classList.remove = 'active';
         }
