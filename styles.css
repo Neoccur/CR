@@ -22,13 +22,13 @@ ul {
     overflow: hidden;
     background-color: transparent;
 }
-  
+
 li {
     float: right;
     margin-top: 50px;
     margin-right: 20px;
 }
-  
+
 li a {
     color: grey;
     padding: 16px;
@@ -40,7 +40,7 @@ li a {
     font-weight: 200;
     letter-spacing: 1px;
 }
-  
+
 li a:hover {
     color: white;
 }
@@ -72,14 +72,14 @@ li a:hover {
 }
 
 .SFC_text {
-    display: table-cell; 
+    display: table-cell;
     text-align: left;
 }
 
 .SFC_text p {
     color: #EADDD0;
     font: normal normal bold 14px/1.4em avenir-lt-w01_85-heavy1475544,sans-serif;
-    font-size: 24px;    
+    font-size: 24px;
 }
 
 .grey_line {
@@ -119,16 +119,16 @@ li a:hover {
 }
 
 .button {
-    display: table-cell; 
+    display: table-cell;
     vertical-align: middle;
 }
 
 .suscribe_confirm {
     width: 150px;
     height: 37px;
-    background-color: #9F907D; 
+    background-color: #9F907D;
     -webkit-transition: background-color 0.5s;
-    transition: background-color 0.5s;   
+    transition: background-color 0.5s;
 }
 
 .suscribe_confirm:hover {
